@@ -1,14 +1,15 @@
 <img align="right" src="https://count.getloli.com/get/@:moocnanmo?theme=rule34">
 
-## 前端工程师 — 罗增
+## 前端开发工程师 — 罗增
 
-热爱前端、热爱技术。工作经验1年，常常因为练习时长没达到两年半而自卑~🏀🏀🏀
+上班敲的是生活、下班敲的是爱如火🔥🔥🔥。
+工作经验1年，常常因为练习时长没达到两年半而自卑~🏀🏀🏀
 
 ### **社交主页：**
 
  <img align="right" alt="GIF" src=".\images\code.gif" width="430" height="100%" style={} />
 
-<a href="https://blog.csdn.net/takeingloop?type=blog"> <img width="12%"  src=".\images\csdn2.png"></a>：梦的开始，一些bug分享就放在这了
+<a href="https://blog.csdn.net/takeingloop?type=blog"> <img width="12%"  src=".\images\csdn2.png"></a>：梦的开始，以后一些bugFix分享就放在这了
 
 <a href="https://juejin.cn/user/4389679565657150"> <img  src=".\images\juejin.png"></a>：梦的激励，技术类的文章写这吧，毕竟有激励🥰🥰
 
@@ -26,3 +27,6 @@
 <a href="https://tailwindcss.com"><code><img height="20" src=".\images\tailwindcss.png"></code></a>
 <a href="https://go.dev/"><code><img height="20" src=".\images\golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src=".\images\docker.png"></code></a>
+
+### call me
+
